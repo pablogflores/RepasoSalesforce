@@ -31,7 +31,7 @@ public with sharing class AccountHandler {
             accMapWithContsCount.put(con.AccountId, accMapWithContsCount.get(con.AccountId) + 1);
            // System.debug(accMapWithContsCount.put(con.AccountId, accMapWithContsCount.get(con.AccountId)));
         } 
-        
+        //Pablo Flores
         cantidad =  accMapWithContsCount.get(con.AccountId);
     }
     System.debug(cantidad);
