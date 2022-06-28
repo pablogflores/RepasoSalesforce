@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Positon2</fullName>
+    <fields>Estado__c</fields>
+    <fields>Estudios__c</fields>
+    <label>Positon2</label>
+</CompactLayout>

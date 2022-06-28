@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Provincia__c</fullName>
+    <externalId>false</externalId>
+    <label>Provincia</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Pais__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Aguas Corrientes</fullName>
+                <default>false</default>
+                <label>Aguas Corrientes</label>
+            </value>
+            <value>
+                <fullName>Central</fullName>
+                <default>false</default>
+                <label>Central</label>
+            </value>
+            <value>
+                <fullName>Cochabanba</fullName>
+                <default>false</default>
+                <label>Cochabanba</label>
+            </value>
+            <value>
+                <fullName>Concepcion</fullName>
+                <default>false</default>
+                <label>Concepcion</label>
+            </value>
+            <value>
+                <fullName>Cordillera</fullName>
+                <default>false</default>
+                <label>Cordillera</label>
+            </value>
+            <value>
+                <fullName>Cusco</fullName>
+                <default>false</default>
+                <label>Cusco</label>
+            </value>
+            <value>
+                <fullName>Departamentos de Roncha</fullName>
+                <default>false</default>
+                <label>Departamentos de Roncha</label>
+            </value>
+            <value>
+                <fullName>Florianopalis</fullName>
+                <default>false</default>
+                <label>Florianopalis</label>
+            </value>
+            <value>
+                <fullName>Fortaleza</fullName>
+                <default>false</default>
+                <label>Fortaleza</label>
+            </value>
+            <value>
+                <fullName>Ica</fullName>
+                <default>false</default>
+                <label>Ica</label>
+            </value>
+            <value>
+                <fullName>Itapua</fullName>
+                <default>false</default>
+                <label>Itapua</label>
+            </value>
+            <value>
+                <fullName>Jose Pedro Varela</fullName>
+                <default>false</default>
+                <label>Jose Pedro Varela</label>
+            </value>
+            <value>
+                <fullName>Junin</fullName>
+                <default>false</default>
+                <label>Junin</label>
+            </value>
+            <value>
+                <fullName>La Libertad</fullName>
+                <default>false</default>
+                <label>La Libertad</label>
+            </value>
+            <value>
+                <fullName>La Paz</fullName>
+                <default>false</default>
+                <label>La Paz</label>
+            </value>
+            <value>
+                <fullName>Lima</fullName>
+                <default>false</default>
+                <label>Lima</label>
+            </value>
+            <value>
+                <fullName>Manaos</fullName>
+                <default>false</default>
+                <label>Manaos</label>
+            </value>
+            <value>
+                <fullName>Mendoza</fullName>
+                <default>false</default>
+                <label>Mendoza</label>
+            </value>
+            <value>
+                <fullName>Minas Gerais</fullName>
+                <default>false</default>
+                <label>Minas Gerais</label>
+            </value>
+            <value>
+                <fullName>Misiones</fullName>
+                <default>false</default>
+                <label>Misiones</label>
+            </value>
+            <value>
+                <fullName>Montevideo</fullName>
+                <default>false</default>
+                <label>Montevideo</label>
+            </value>
+            <value>
+                <fullName>Pando</fullName>
+                <default>false</default>
+                <label>Pando</label>
+            </value>
+            <value>
+                <fullName>Potosi</fullName>
+                <default>false</default>
+                <label>Potosi</label>
+            </value>
+            <value>
+                <fullName>Sandi Grande</fullName>
+                <default>false</default>
+                <label>Sandi Grande</label>
+            </value>
+            <value>
+                <fullName>San Juan</fullName>
+                <default>false</default>
+                <label>San Juan</label>
+            </value>
+            <value>
+                <fullName>San Luis</fullName>
+                <default>false</default>
+                <label>San Luis</label>
+            </value>
+            <value>
+                <fullName>San Paulo</fullName>
+                <default>false</default>
+                <label>San Paulo</label>
+            </value>
+            <value>
+                <fullName>San Pedro</fullName>
+                <default>false</default>
+                <label>San Pedro</label>
+            </value>
+            <value>
+                <fullName>Santa Cruz</fullName>
+                <default>false</default>
+                <label>Santa Cruz</label>
+            </value>
+            <value>
+                <fullName>Tarija</fullName>
+                <default>false</default>
+                <label>Tarija</label>
+            </value>
+            <value>
+                <fullName>Tierra de Fuego</fullName>
+                <default>false</default>
+                <label>Tierra de Fuego</label>
+            </value>
+            <value>
+                <fullName>Tranqueras</fullName>
+                <default>false</default>
+                <label>Tranqueras</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Uruguay</controllingFieldValue>
+            <valueName>Montevideo</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Producto__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Relacion de producto con detalle de factura</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Campo de relacion entre producto y detalle de factura</inlineHelpText>
+    <label>Producto</label>
+    <referenceTo>Producto__c</referenceTo>
+    <relationshipLabel>Detalles Facturas</relationshipLabel>
+    <relationshipName>Detalles_Facturas</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
